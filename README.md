@@ -9,6 +9,8 @@ This project involves creating a RESTful API using Python and Node.js to serve c
 - **Python**: Use Python for backend data processing tasks to clean, aggregate, and prepare climate data.
 - **Node.js and Express**: Utilize Node.js and Express to create and serve the API.
 - The API should handle requests to retrieve data and support filtering by `year` and `scenario`.
+- Your `year` values can be 2020, 2025, 2030, 2035, 2040, 2045, 2050, 2060, 2070, 2080, 2090, 2100.
+- Your `scenario` values can be of RCP (2.6, 4.5, 6.0, 8.5) or SSP (1, 2, 3, 4, 5) type.
 
 ### Development Environment
 - This project uses GitHub Codespaces which provides a pre-configured development environment.
